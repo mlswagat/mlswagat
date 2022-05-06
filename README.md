@@ -7,5 +7,5 @@
 ### Skills
 - 👨🏽‍💻 Python, C, C++, Java, HTML, CSS, SUMO, Wordpress, Numpy, Pandas 
 - 🙋 Always played leadership role. Please check  <a href="https://mlswagat.github.io/" target="_blank">my website</a>
-- 🎫 Check my research publications <a href="https://scholar.google.com/citations?hl=en&user=472vhAQAAAAJ" target="_blank">google scholar</a>
+- 🎫 Check my research publications in <a href="https://scholar.google.com/citations?hl=en&user=472vhAQAAAAJ" target="_blank">google scholar</a>
 - 🌱 I’m currently learning Pytorch
